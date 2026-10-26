@@ -51,7 +51,8 @@ The challenge is to reach the goal with the fewest actions.
 
 The program draws both jugs and updates their water levels after every action.
 
-![AI Water Jug Solver Initial State](assets/water-jug-initial.png)
+<img width="1440" height="900" alt="Screenshot 2026-10-26 at 4 00 02 PM" src="https://github.com/user-attachments/assets/10251df4-78f4-4a76-b580-a8923d296354" />
+
 
 **Visualization legend**
 
